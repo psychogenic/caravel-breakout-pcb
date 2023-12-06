@@ -1,0 +1,19 @@
+### Footprint positions - created on Wed 06 Dec 2023 01:17:41 PM ###
+### Printed by KiCad version 7.0.9-7.0.9~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val              Package                                     PosX       PosY       Rot  Side
+C1        0.1uf            C_0402_1005Metric                        16.9000    22.2500   90.0000  top
+C2        0.1uf            C_0402_1005Metric                        14.4000    29.0000  180.0000  top
+C3        0.1uf            C_0402_1005Metric                        18.4000    35.0000   90.0000  top
+C4        0.1uf            C_0402_1005Metric                        24.4500    34.9000  -90.0000  top
+C5        0.1uf            C_0402_1005Metric                        27.7500    28.8500  180.0000  top
+C6        0.1uf            C_0402_1005Metric                        25.4500    34.9200  -90.0000  top
+C7        0.1uf            C_0402_1005Metric                        25.0000    22.2200   90.0000  top
+C10       0.1uf            C_0402_1005Metric                        14.4000    25.0000  180.0000  top
+C11       0.1uf            C_0402_1005Metric                        26.0500    22.2000   90.0000  top
+CON1      REF-182665-01    FH-00339                                  7.6000    26.2500  -90.0000  top
+CON2      REF-182665-01    FH-00339                                 37.4000    26.2500  -90.0000  top
+CON3      73251-1352       TE_5-1814832-2                           22.5000     4.2000    0.0000  top
+U1        Caravel_QFN_TT4  QFN-64-1EP_9x9mm_P0.5mm_EP7.65x7.65mm    21.0000    28.5000  180.0000  top
+## End
